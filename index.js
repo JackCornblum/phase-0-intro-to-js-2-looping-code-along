@@ -19,3 +19,10 @@ function countDown(number) {
 }
 
 countDown(10);
+
+function countUp(num){
+    while (num <= 10){
+        console.log(num);
+        num++;
+    }
+}
